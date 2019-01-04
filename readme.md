@@ -1,1 +1,1 @@
-#voici mon premier pas en javascript
+#voici mon project de mercredi
